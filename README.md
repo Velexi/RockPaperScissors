@@ -1,3 +1,5 @@
 # RockPaperScissors
 First Web App project using HTML, CSS, JavaScript.
-# Velexi, Feb 2019.
+
+
+Velexi, Feb 2019.
